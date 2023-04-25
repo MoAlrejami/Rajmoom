@@ -1,3 +1,4 @@
 # Rajmoom
-This is my firdt commit
+Rajmoom website
+This is my first commit
 
